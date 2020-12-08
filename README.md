@@ -1,26 +1,49 @@
-# Golang Bootcamp
+# Crypto Challenge
 
 ## Introduction
 
-Thank you for participating in the Golang Bootcamp course!
-Here, you'll find instructions for completing your certification.
+Thank you for participating in the Crypto Challenge!
+Here, you'll find instructions for completing the challenge.
 
 ## The Challenge
 
-The purpose of the challenge is for you to demonstrate your Golang skills. This is your chance to show off everything you've learned during the course!!
+The purpose of the challenge is for you to demonstrate your Android skills. This is your chance to show off everything you've learned during the course!!
 
-You will build and deliver a whole Golang project on your own. We don't want to limit you by providing some fill-in-the-blanks exercises, but instead request you to build it from scratch.
+You will build and deliver a whole Android application on your own. We don't want to limit you by providing some fill-in-the-blanks exercises, but instead request you to build it from scratch.
 We hope you find this exercise challenging and engaging.
 
-The goal is to build a REST API which must include:
+The goal is to build an application using the Bitso REST API:
 
-- An endpoint for reading from an external DB or API
-  - Write the information in a CSV file
-- An endpoint for reading the CSV
-  - Display the information as a JSON
-- Unit testing for the principal logic
-- Follow conventions, best practices
-- Clean architecture
+- Retreive all available books and display them in a list.
+- See the detail of an specific the ticker in a new screen.
+- Update the last price every 10 seconds.
+- Add the current orders in the detail screen.
+- Store the data using Room.
+- Implement different
+- Add Unit tests.
+- Add UI tests.
+- Create a retrofit client and log network events using OkHttp.
+- Search for images that belongs to specific cryptos and add the image in the main list.
+- Use RxAndroid Observables for the network responses.
+- Design the UI using ConstraintLayouts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Requirements
 
