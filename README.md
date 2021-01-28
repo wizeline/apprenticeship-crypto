@@ -85,7 +85,7 @@ Based on the self-study material and mentorship covered until this deliverable, 
 - Set up CI/CD pipeline by using CircleCI or Bitrise.
 - Add a linter in order to check your code.
 - Use some advanced kotlin features like "Inline Functions, Tail Recursive, Delegated Properties and Collection Operators"
-- Implement co-routines and use suspend functions with retrofit.
+- Implement coroutines and use suspend functions with retrofit.
 - Implement hilt as a DI framework.
 - Implement the navigation component to navigate among the screens.
 - Implement RxAndroid, wrap the retrofit response and create an observable that needs to be observed or change the retrofot response to Observable.
@@ -97,10 +97,11 @@ Based on the self-study material and mentorship covered until this deliverable, 
 
 For submitting your work, you should follow these steps:
 
-1. Create a pull request with your code, targeting the master branch of the repository golang-bootcamp-2020.
-2. Fill this [form](pending...) including the PR’s url
-3. Stay tune for feedback
-4. Do the changes according to your mentor's comments
+1. Create a pull request with your code, targeting the master branch of your repository.
+2. Fill this PR [template](https://github.com/wizeline/wize-docs/blob/master/development/git-contributing-guidelines.md#pull-requests) to clearly state your changes
+3. Add your mentor as reviewer
+4. Stay tune for feedback
+5. Do the changes according to your mentor's comments
 
 ## Documentation
 
@@ -127,7 +128,7 @@ For submitting your work, you should follow these steps:
 - [CircleCI](https://circleci.com/docs/2.0/language-android/)
 - [Bitrise](https://devcenter.bitrise.io/getting-started/getting-started-with-android-apps/)
 - [Linters](https://ktlint.github.io/)
-- [Co-routines](https://developer.android.com/kotlin/coroutines)
+- [Coroutines](https://developer.android.com/kotlin/coroutines)
 - [Suspend Functions](https://kotlinlang.org/docs/reference/coroutines/composing-suspending-functions.html)
 - [DI](https://developer.android.com/training/dependency-injection/manual)
 - [DI Framework](https://developer.android.com/training/dependency-injection/hilt-android)
