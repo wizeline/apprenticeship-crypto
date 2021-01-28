@@ -97,10 +97,11 @@ Based on the self-study material and mentorship covered until this deliverable, 
 
 For submitting your work, you should follow these steps:
 
-1. Create a pull request with your code, targeting the master branch of the repository golang-bootcamp-2020.
-2. Fill this [form](pending...) including the PR’s url
-3. Stay tune for feedback
-4. Do the changes according to your mentor's comments
+1. Create a pull request with your code, targeting the master branch of your repository.
+2. Fill this PR [template](https://github.com/wizeline/wize-docs/blob/master/development/git-contributing-guidelines.md#pull-requests) to clearly state your changes
+3. Add your mentor as reviewer
+4. Stay tune for feedback
+5. Do the changes according to your mentor's comments
 
 ## Documentation
 
